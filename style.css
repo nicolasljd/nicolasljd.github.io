@@ -19,10 +19,54 @@ h4 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.date {
+    color: grey;
+}
+
 .corps {
     background-color: #681D37;
 }
 
 .company {
     color: #3E0F26;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: normal;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: #681D37;
+    opacity: 0.75;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.btn-link {
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    text-align: center;
+}
+
+.btn-link:hover {
+    color: white;
+    text-decoration: underline;
+    background-color: transparent;
+    border-color: transparent;
 }
