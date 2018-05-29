@@ -1,0 +1,24 @@
+.box1 {
+    background-image: url("daphni.png");
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box2 {
+    background-color: #681D37;
+}
+
+h4 {
+    color: #C4411D;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.job {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.corps {
+    background-color: #681D37;
+}
